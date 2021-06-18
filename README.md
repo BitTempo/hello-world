@@ -1,3 +1,2 @@
 # hello-world
-school assignment
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm nice edit dylan
+school assignment, my name is Dylan and I like computers.
